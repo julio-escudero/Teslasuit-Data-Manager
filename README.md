@@ -48,4 +48,4 @@ The clusters will appear in the toolbar under the tab:
 
 If you use these clusters in your research or projects, please cite as:
 
-> Escudero, J. (2026). *Teslasuit Data Manager: Grasshopper clusters for Teslasuit data management* [Computer software]. 
+> Escudero, J. (2026). *Teslasuit Data Manager: Grasshopper clusters for Teslasuit data management* [Computer software]. https://github.com/julio-escudero/Teslasuit-Data-Manager.git 
