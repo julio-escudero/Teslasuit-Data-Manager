@@ -1,6 +1,6 @@
 # Teslasuit Data Manager — Grasshopper Clusters
 
-A collection of Grasshopper **User Objects (.ghuser)** developed as part of doctoral research Making Motion Tangible: Embodied and Critical Research at the Human-Machine Interface". These clusters provide tools to manage, visualise, and process Teslasuit IMU data in Grasshopper.
+A collection of Grasshopper **User Objects (.ghuser)** developed as part of doctoral research "Making Motion Tangible: Embodied and Critical Research at the Human-Machine Interface". These clusters provide tools to manage, visualise, and process Teslasuit IMU data in Grasshopper.
 
 ---
 
